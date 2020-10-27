@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MeloCodeHi/My-First-Thing/issues"
   },
-  "homepage": "https://github.com/MeloCodeHi/My-First-Thing#readme"
+  "homepage": "https://github.com/MeloCodeHi/My-First-Thing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
